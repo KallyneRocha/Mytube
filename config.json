@@ -1,13 +1,14 @@
 {
-    "name": "Mario Souto (DevSoutinho)",
-    "description": "Lead Software Engineer",
-    "github": "omariosouto",
+    "name": "Kallyne Rocha",
+    "job": "Front-end Dev | UX Designer",
+    "bg":"https://images.unsplash.com/photo-1481833761820-0509d3217039?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "github": "KallyneRocha",
     "playlists": {
-      "jogos": [
+      "paintings": [
           {
-            "title": "Frostpunk - Neve e Steak tartare",
-            "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-            "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+            "title": "Wanting to start a new medium | Art Chats",
+            "url": "https://www.youtube.com/watch?v=BO4tTH40yLU&t=815s",
+            "thumb": "https://i.ytimg.com/an_webp/BO4tTH40yLU/mqdefault_6s.webp?du=3000&sqp=CJKvsJsG&rs=AOn4CLDghIBJhNtAaFt9yMrLwiBTCn8WFA"
           },
           {
             "title": "Frostpunk - Neve e Steak tartare",
@@ -45,7 +46,7 @@
             "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
           }
         ],
-      "front-end": [
+      "design": [
         {
           "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
           "url": "https://youtube.com/watch?v=jOAU81jdi-c",
@@ -92,7 +93,7 @@
           "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
         }
       ],
-      "back-end": [
+      "front-end": [
         {
           "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
           "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
