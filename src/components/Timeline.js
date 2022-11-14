@@ -13,6 +13,7 @@ export const StyledTimeline = styled.div`
   img {
     aspect-ratio: 16/9;
     font-weight: 500;
+    border-radius: 15px;
     object-fit: cover;
     width: 100%;
     max-width: 210px;
